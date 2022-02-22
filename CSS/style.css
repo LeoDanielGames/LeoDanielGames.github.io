@@ -1,0 +1,21 @@
+body{
+    background: whitesmoke;
+}
+.container{
+    margin-top: 20px;
+    margin-bottom: 24px;
+}
+
+.card-img-top{
+    width: 30%;
+    height: 30%;
+    margin: 0 auto;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    box-sizing: border-box;
+    padding: 10px;
+}
