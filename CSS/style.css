@@ -1,5 +1,7 @@
 body{
     background: whitesmoke;
+    min-height: 100vh;
+    box-sizing: border-box;
 }
 .container{
     margin-top: 20px;
@@ -16,6 +18,28 @@ body{
     position: fixed;
     left: 0;
     bottom: 0;
-    box-sizing: border-box;
     padding: 10px;
+}
+
+.footer a{
+    color: whitesmoke;
+}
+
+.footer a:hover{
+    color: #8C9EFF;
+}
+
+.navLista button{
+    width: 80px;
+    border: 1px solid whitesmoke;
+    background: transparent;
+    color: whitesmoke;
+}
+
+a{
+    color: #292b2c;
+}
+
+a:hover{
+    color: #1A237E;
 }
