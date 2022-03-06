@@ -43,3 +43,7 @@ a{
 a:hover{
     color: #1A237E;
 }
+
+.btnConsoles{
+    width: 250px;
+}
