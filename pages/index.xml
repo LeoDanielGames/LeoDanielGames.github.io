@@ -31,7 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/promo/</guid>
-      <description>Chega mais que AQUI tem preço BOM!    .container { display: flex; flex-wrap: wrap; gap: 50px; text-align: center; justify-content: center; } .produto { width: 300px; /* Largura do produto */ padding: 20px; border: 1px solid #ccc; border-radius: 15px; box-sizing: border-box; } .produto img { max-width: 100%; height: auto; }    Console PlayStation®5 Edição Digital De: R$ 3.999,00 Por: R$ 3.719,07 IR PARA LOJA Amazon   Mario Party Superstars - Nintendo Switch De: R$ 349,90 Por: R$ 288,58 IR PARA LOJA Amazon   Nintendo Switch Pro Controller De: R$ 599,00 Por: R$ 599,00 IR PARA LOJA Amazon   Pokémon Violet - Nintendo Switch De: R$ 339,90 Por: R$ 290,13 IR PARA LOJA Amazon   Console Nintendo Switch Oled De: R$ 2.</description>
+      <description>Chega mais que AQUI tem preço BOM!    .container { display: flex; flex-wrap: wrap; gap: 50px; text-align: center; justify-content: center; } .produto { width: 300px; /* Largura do produto */ padding: 20px; border: 1px solid #ccc; border-radius: 15px; box-sizing: border-box; } .produto img { max-width: 100%; height: auto; } .caixa-texto { padding: 0px; font-size: 16px; text-align: center; border: 2px solid #ccc; border-radius: 5px; margin-bottom: 10px; } .botao-copiar { padding: 2px 20px; font-size: 16px; border: 2px solid #ccc; border-radius: 5px; cursor: pointer; background-color: #482880; color: #fff; } .</description>
     </item>
     
     <item>
