@@ -31,7 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/promo/</guid>
-      <description>Chega mais que AQUI tem preço BOM!    .container { display: flex; flex-wrap: wrap; gap: 50px; text-align: center; } .produto { width: 300px; /* Largura do produto */ padding: 20px; border: 1px solid #ccc; box-sizing: border-box; }
+      <description>Chega mais que AQUI tem preço BOM!    .container { display: flex; flex-wrap: wrap; gap: 50px; text-align: center; justify-content: center; } .produto { width: 300px; /* Largura do produto */ padding: 20px; border: 1px solid #ccc; box-sizing: border-box; }
 .produto img { max-width: 100%; height: auto; } 
   Pokémon Violet - Nintendo Switch De: R$ 339,90 Por: R$ 290,13 IR PARA LOJA   Console Nintendo Switch Oled De: R$ 2.</description>
     </item>
